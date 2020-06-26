@@ -1,4 +1,4 @@
-# Horiseon-Code-Refractor  
+# Horiseon-Website 
 Horiseon is a fake company that I used to create a website in the process of learning HTML.
 
 # Usage  
