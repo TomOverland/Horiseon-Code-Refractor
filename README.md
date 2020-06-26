@@ -1,5 +1,5 @@
 # Horiseon-Website 
-Horiseon is a fake company that I used to create a website in the process of learning HTML.
+This is a website for a fake search engine optimization company that I created using HTML and CSS.
 
 # Usage  
 Download the repo and run index.html
