@@ -1,4 +1,5 @@
 # Horiseon-Website 
+!(landing page)[https://github.com/TomOverland/Horiseon-Website/blob/master/assets/Screenshot%20of%20Webpage.JPG]
 
 # Explanation of the task
 I was requested to refactor a marketing agency website.
